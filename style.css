@@ -2,12 +2,14 @@ body{
     margin: 0%;
     font-family: 'Poppins', sans-serif;
     color: white;
+
 }
 h1{
     font-size: 55px;
 }
 .section{
     display:flex;
+    height: 250px;
     
 }
 .container{
